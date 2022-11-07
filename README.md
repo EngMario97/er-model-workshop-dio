@@ -1,1 +1,1 @@
-(er-model-workshop.drawio.png)
+![er-workshop](er-model-workshop.drawio.png)
